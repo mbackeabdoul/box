@@ -5,6 +5,12 @@
 .item{
     margin: 4px;
     height: 20px;
-    width:700px;
+    width:500px;
+    border: 1px solid;
+}
+.item1{
+    margin: 4px;
+    height: 20px;
+    width:750px;
     border: 1px solid;
 }
